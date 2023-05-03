@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://sanchi2209.github.io/csb-xh6j06/static/css/main.fc5c2c69.css",
+    "main.js": "https://sanchi2209.github.io/csb-xh6j06/static/js/main.9df817c0.js",
+    "index.html": "https://sanchi2209.github.io/csb-xh6j06/index.html",
+    "main.fc5c2c69.css.map": "https://sanchi2209.github.io/csb-xh6j06/static/css/main.fc5c2c69.css.map",
+    "main.9df817c0.js.map": "https://sanchi2209.github.io/csb-xh6j06/static/js/main.9df817c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.9df817c0.js"
+  ]
+}
